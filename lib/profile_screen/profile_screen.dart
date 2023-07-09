@@ -1,8 +1,10 @@
 // ignore_for_file: must_be_immutable
 
 import 'package:drian_s_application3/core/app_export.dart';
-import 'package:drian_s_application3/presentation/beranda_page_screen/beranda_page_screen.dart';
+
 import 'package:flutter/material.dart';
+
+import '../beranda_page_screen/beranda_page_screen.dart';
 
 class ProfileScreen extends StatelessWidget {
   ProfileScreen({Key? key}) : super(key: key);

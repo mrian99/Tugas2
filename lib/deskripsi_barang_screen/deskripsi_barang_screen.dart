@@ -1,8 +1,9 @@
 import 'package:drian_s_application3/core/app_export.dart';
-import 'package:drian_s_application3/presentation/beranda_page_screen/beranda_page_screen.dart';
-import 'package:drian_s_application3/presentation/chat_screen/chat_screen.dart';
+
 import 'package:flutter/material.dart';
 
+import '../beranda_page_screen/beranda_page_screen.dart';
+import '../chat_screen/chat_screen.dart';
 import '../keranjang_screen/keranjang_screen.dart';
 
 class DeskripsiBarangScreen extends StatelessWidget {

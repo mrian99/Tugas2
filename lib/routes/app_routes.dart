@@ -1,13 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:drian_s_application3/presentation/beranda_page_screen/beranda_page_screen.dart';
-import 'package:drian_s_application3/presentation/register_page_screen/register_page_screen.dart';
-import 'package:drian_s_application3/presentation/login_page_screen/login_page_screen.dart';
-import 'package:drian_s_application3/presentation/deskripsi_barang_screen/deskripsi_barang_screen.dart';
-import 'package:drian_s_application3/presentation/keranjang_screen/keranjang_screen.dart';
-import 'package:drian_s_application3/presentation/profile_screen/profile_screen.dart';
-import 'package:drian_s_application3/presentation/chat_screen/chat_screen.dart';
-import 'package:drian_s_application3/presentation/checkout_screen/checkout_screen.dart';
-import 'package:drian_s_application3/presentation/app_navigation_screen/app_navigation_screen.dart';
+
+import '../app_navigation_screen/app_navigation_screen.dart';
+import '../beranda_page_screen/beranda_page_screen.dart';
+import '../chat_screen/chat_screen.dart';
+import '../checkout_screen/checkout_screen.dart';
+import '../deskripsi_barang_screen/deskripsi_barang_screen.dart';
+import '../keranjang_screen/keranjang_screen.dart';
+import '../login_page_screen/login_page_screen.dart';
+import '../profile_screen/profile_screen.dart';
+import '../register_page_screen/register_page_screen.dart';
 
 class AppRoutes {
   static const String berandaPageScreen = '/beranda_page_screen';

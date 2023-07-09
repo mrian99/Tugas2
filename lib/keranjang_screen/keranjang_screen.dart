@@ -1,7 +1,7 @@
 // ignore_for_file: unused_import
 
 import 'package:drian_s_application3/core/app_export.dart';
-import 'package:drian_s_application3/presentation/deskripsi_barang_screen/deskripsi_barang_screen.dart';
+
 import 'package:drian_s_application3/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 

@@ -1,10 +1,12 @@
 // ignore_for_file: must_be_immutable, unused_field
 
 import 'package:drian_s_application3/core/app_export.dart';
-import 'package:drian_s_application3/presentation/beranda_page_screen/beranda_page_screen.dart';
+
 import 'package:drian_s_application3/widgets/custom_button.dart';
 import 'package:drian_s_application3/widgets/custom_text_form_field.dart';
 import 'package:flutter/material.dart';
+
+import '../beranda_page_screen/beranda_page_screen.dart';
 
 class RegisterPageScreen extends StatelessWidget {
   RegisterPageScreen({Key? key}) : super(key: key);
